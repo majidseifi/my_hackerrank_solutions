@@ -7,7 +7,7 @@
 
 function isAlphabeticPalindrome(code) {
     // Write your code here
-    const letters = code.replace(/[^a-zA-z]/g,'').toLowerCase()
+    const letters = code.replace(/[^a-zA-Z]/g, '').toLowerCase()
     const reversed = letters.split('').reverse().join('');
     return reversed == letters;
 }

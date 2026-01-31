@@ -6,7 +6,7 @@
 |---|---|
 | **Platform** | HackerRank |
 | **Language** | JavaScript (Node.js) |
-| **Solved On** | 2026-01-30 |
+| **Solved On** | 2026-01-31 |
 | **Link** | [View Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-palindrome-filter-non-letters/problem?isFullScreen=true) |
 
 ## Problem Description
